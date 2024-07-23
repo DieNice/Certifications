@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Добро пожаловать в базу знаний для Python-разработчиков
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Данный раздел посвящен: Архитектурному проектированию, Python-разработке, Дата-инжинирингу, Базам данных и другим аспектам разработки.
+****
+Подготовке менторов к аттестациям.
+
+
+![[funny-animals-python-programmer-sticker.jpg]]
